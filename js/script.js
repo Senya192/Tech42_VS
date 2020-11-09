@@ -14,4 +14,3 @@ headerBoorger.addEventListener('click', () => {
 	body.classList.toggle("lock");
 	// console.log(123);
 });
-console.log('Hello')
